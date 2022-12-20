@@ -9,11 +9,10 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
+            <option value="$USER_HOME$/Desktop/flutter2.5/.pub-cache/git/flutter_boost-48b84d813b537ca7e837ff2ad2dc51f437f7459e/android" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/../my_flutter" />
             <option value="$PROJECT_DIR$/../my_flutter/.android/Flutter" />
-            <option value="$PROJECT_DIR$/../../flutter2.5/.pub-cache/git/flutter_boost-48b84d813b537ca7e837ff2ad2dc51f437f7459e/android" />
           </set>
         </option>
       </GradleProjectSettings>

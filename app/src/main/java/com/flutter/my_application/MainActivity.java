@@ -15,10 +15,7 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
 import com.flutter.my_application.databinding.ActivityMainBinding;
-import com.idlefish.flutterboost.FlutterBoost;
-import com.idlefish.flutterboost.FlutterBoostDelegate;
-import com.idlefish.flutterboost.FlutterBoostRouteOptions;
-import com.idlefish.flutterboost.containers.FlutterBoostActivity;
+
 import com.flutter.my_application.Boost;
 import android.view.Menu;
 import android.view.MenuItem;
